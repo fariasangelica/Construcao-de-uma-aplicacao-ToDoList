@@ -1,4 +1,4 @@
-# Construção de uma aplicaão ToDoList
+# Construção de uma aplicação ToDoList
 
 ### ⛏🧱 Projeto: 
 Construção backend de uma aplicação de TO-DO List.
